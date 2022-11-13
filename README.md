@@ -14,4 +14,4 @@ FrontEnd: HTML5, CSS and React!
 
 I studied UI and UX Development as well!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMark&theme=dracula)](https://github.com/GoncaloMark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMark&theme=tokyonight)](https://github.com/GoncaloMark/github-readme-stats)
