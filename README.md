@@ -11,7 +11,7 @@
 ### About Me :
 
 - 👀 I’m interested in Mobile Development, Web Development (Fullstack), and utility tools development!
-- 🌱 I’m currently learning Golang, Typescript and Ruby!
+- 🌱 I’m currently learning Golang and Ruby!
 - 💞️ I’m looking to collaborate on any project that I find interesting and that the community is cheering and can provide an healthy learning environment!
 - 📫 How to reach me: gmgoncalo7@gmail.com
 ---
@@ -19,6 +19,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
