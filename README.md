@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-Also a bit of C, Java and Bash! (Learning: Ruby, Typescript and Golang)
+Also a bit of C, Java and Bash! (Learning: Ruby and Golang)
 
 Knowledge of the TCP/IP protocol/stack! HTTP protocol and Apache webserver administration (basics) on Linux (LAMP Stack)!
 
