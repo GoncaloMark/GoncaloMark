@@ -47,3 +47,6 @@ I studied UI and UX Development as well!
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GoncaloMark&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoncaloMark&theme=tokyonight&layout=compact)](https://github.com/GoncaloMark/github-readme-stats)
+
+### PUBLISHED NPM PACKAGES:
+  - https://www.npmjs.com/package/jalapeno_lnx
