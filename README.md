@@ -11,7 +11,7 @@
 ### About Me :
 
 - 👀 I’m interested in Mobile Development, Web Development (Fullstack), and utility tools development!
-- 🌱 I’m currently learning Golang and Ruby!
+- 🌱 I’m currently learning Golang!
 - 💞️ I’m looking to collaborate on any project that I find interesting and that the community is cheering and can provide an healthy learning environment!
 - 📫 How to reach me: gmgoncalo7@gmail.com
 ---
