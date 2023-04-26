@@ -50,4 +50,4 @@ I studied UI and UX Development as well!
 
 ### PUBLISHED PACKAGES:
   - https://www.npmjs.com/package/jalapeno_lnx
-  - https://pypi.org/project/Amara-CobWeb/
+  - https://pypi.org/project/lnx-CobWeb/
