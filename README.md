@@ -10,8 +10,8 @@
 ---
 ### About Me :
 
-- 👀 I’m interested in Mobile Development, Web Development (Fullstack), and utility tools development!
-- 🌱 I’m currently learning Golang!
+- 👀 I’m interested in BackEnd Development, Systems Architecture, Cloud Architecture, DevOps, Mobile Development, Web Development (Fullstack), and utility tools development!
+- 🌱 I'm currently learning Kubernetes and cluster monitoring with Grafana and Prometheus!
 - 💞️ I’m looking to collaborate on any project that I find interesting and that the community is cheering and can provide an healthy learning environment!
 - 📫 How to reach me: gmgoncalo7@gmail.com
 ---
@@ -39,6 +39,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PGSql" **alt="PGSql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" **alt="GraphQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLabCI" **alt="GitLabCI" width="40" height="40"/>
 </div>
 
 Also a bit of Java and Bash!
